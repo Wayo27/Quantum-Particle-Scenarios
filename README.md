@@ -1,5 +1,8 @@
 # Quantum Particle Scenarios ⚛️
 
+![Wave Function Visualization](QuantumParticle_Scenarios.png)
+
+
 Educational Android application built with **Jetpack Compose** to visualize
 fundamental scenarios of **Quantum Mechanics** through wave functions and
 probability densities.
