@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.QP_Scenarios" parent="android:Theme.Material.Light.NoActionBar" >
+	<!-- Color de fondo del Splash Screen -->
+        <item name="android:windowSplashScreenBackground">#C71585</item> <!-- rosa-magenta -->
+    </style>
+</resources>
